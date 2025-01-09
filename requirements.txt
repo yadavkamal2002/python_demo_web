@@ -1,0 +1,7 @@
+#starlette==0.27.0
+#streamlit==1.41.1
+
+streamlit==1.25.0
+streamlit-modal.=0.1.0
+streamlit-option-menu==0.3.6
+streanlit-server-state==0.16.0
